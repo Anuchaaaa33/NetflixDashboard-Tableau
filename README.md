@@ -21,3 +21,5 @@ The project includes various visualizations to answer questions like:
 ## Dataset
 
 The dataset used for this project is the Netflix Movies and TV Shows dataset available on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows). It contains information about various movies and TV shows available on Netflix, including attributes like title, director, cast, country, release year, rating, and more.
+
+<img width="1615" height="745" alt="image" src="https://github.com/user-attachments/assets/29c6e799-5ca5-490a-bc1b-e869d6643e30" />
